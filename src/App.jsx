@@ -31,6 +31,7 @@ function App() {
       <h1>salman fisal</h1>
       <h1>Gouse Taj</h1>
       <h1>Ahatesham Binladin</h1>
+      <h1>Afreedi Binladin</h1>
     </>
   )
 }
